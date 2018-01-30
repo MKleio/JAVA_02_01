@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Iveskite svori");
         double svoris = sc.nextFloat();
         System.out.println("KMI: " + skaiciuokKMI(svoris,ugis));
+        //test
     }
 
     public static double skaiciuokKMI(double svoris, double ugis) {
